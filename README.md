@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thien 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science at UEH
+- 🌱 I’m currently learning Computer Science at UEH
 
 <!---
 ThienNguyen3001/ThienNguyen3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
