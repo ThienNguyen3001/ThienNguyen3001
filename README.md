@@ -11,13 +11,13 @@
 
 
 <h1 align="middle">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Ngoc+Thien!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Ngoc+Thien!;" />
 </h1>
 <h3 align="middle">A passionate CS student from UEH</h3>
 
 # 💫 About Me:
 <div align="left">
- 🔭 I’m currently learning Computer Science as a 2nd year student at UEH(University of Economic Ho Chi Minh City).<br>
+ 🔭 I’m currently learning Computer Science as a 2nd year student at UEH (University of Economic Ho Chi Minh City).<br>
  
  </div>
  
@@ -111,32 +111,6 @@
 <a href="https://github.com/ThienNguyen3001/Mini-project-crawl-data"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Mini-project-crawl-data&theme=radical" />
 </a>   
-
-
-<a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Forklift-Object-detection&theme=radical" />
-</a>   
-
-
-<a href="https://github.com/ToanNguyenKhanh/Tree-Detection-using-faster_RCNN">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection-using-faster_RCNN&theme=radical" />
-</a>    
-
-<a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical" />
-</a>    
-
-<a href="https://github.com/ToanNguyenKhanh/AG-News-Text-Classification">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=AG-News-Text-Classification&theme=radical" />
-</a>  
-
-<a href="https://github.com/ToanNguyenKhanh/spaceship-titanic">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=spaceship-titanic&theme=radical" />
-</a>   
-
-<a href="https://github.com/ToanNguyenKhanh/HaNoi-Tower-project-using-Stack">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
-</a>    
 
 </h1>
 
