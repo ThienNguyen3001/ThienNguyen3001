@@ -56,9 +56,9 @@
   <div align="left">
     <!--<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=282828">-->
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828">
-    <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828">
+    <!--<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">-->
+    <!--<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828">-->
+    <!--<img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828">-->
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=4d77cf&labelColor=282828">
@@ -72,8 +72,8 @@
 
   <h3>Software & Tools</br></h3>
    <div align="left">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=f5c022&labelColor=282828">
+    <!--<img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">-->
+    <!--<img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=f5c022&labelColor=282828">-->
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=282828">
     <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
     <img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -86,9 +86,9 @@
 
 <h1 align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=nightow)](https://github.com/ThienNguyen3001/github-readme-stats)<br>
-![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=radical)](https://github.com/ThienNguyen3001/github-readme-stats)<br>
+<!--![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 
 
 </h1>
@@ -108,8 +108,8 @@
 
 <h1 align="left">
 
-<a href="https://github.com/ToanNguyenKhanh/Badminton-Analysis"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Badminton-Analysis&theme=radical" />
+<a href="https://github.com/ThienNguyen3001/Mini-project-crawl-data"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Mini-project-crawl-data&theme=radical" />
 </a>   
 
 
