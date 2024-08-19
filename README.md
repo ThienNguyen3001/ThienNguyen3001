@@ -30,6 +30,9 @@
   <a href="https://www.linkedin.com/in/thi%E1%BB%87n-nguy%E1%BB%85n-1b3793285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100040691206144" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0077B6?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
+  </a>
   <!--
   <a href="https://toannguyenkhanh.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
