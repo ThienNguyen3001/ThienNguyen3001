@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">-->
 <p align="center">
-  <img align="middle" src="https://raw.githubusercontent.com/ThienNguyen3001/gif/main/giphy.webp?token=GHSAT0AAAAAACV62X6TIVXAY7ABHD2QPSBEZWEWZQQ" width="550">
+  <img align="middle" src="https://raw.githubusercontent.com/ThienNguyen3001/gif/main/giphy.webp?token=GHSAT0AAAAAACV62X6TIVXAY7ABHD2QPSBEZWEWZQQ" width="500">
 
 </p>
 
