@@ -5,15 +5,15 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">-->
 <p align="center">
-  <img align="middle" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img align="middle" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550">
 
 </p>
 
 
 <h1 align="middle">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Ngoc+Thien!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;+I'm+Thien!;" />
 </h1>
-<h3 align="middle">A passionate CS student from UEH</h3>
+<h3 align="middle">An ambitious CS student from UEH.</h3>
 
 # 💫 About Me:
 <div align="left">
@@ -49,7 +49,7 @@
 
    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
    <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=282828"> 
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=282828"> 
    <!--<img src="https://img.shields.io/badge/R-EADBC8.svg?style=for-the-badge&logo=R&logoColor=blue&labelColor=282829">-->
 
     
