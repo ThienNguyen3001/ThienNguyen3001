@@ -18,12 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="left"> 
+    <a href="https://www.linkedin.com/in/thi%E1%BB%87n-nguy%E1%BB%85n-1b3793285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   <a href="mailto:thiennguyen03001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thi%E1%BB%87n-nguy%E1%BB%85n-1b3793285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+
   <a href="https://www.facebook.com/profile.php?id=100040691206144" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
   </a>
