@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="middle" src="https://raw.githubusercontent.com/ThienNguyen3001/gif/main/giphy.webp?token=GHSAT0AAAAAACV62X6TIVXAY7ABHD2QPSBEZWEWZQQ" width="500">
+  <img align="middle" src="https://raw.githubusercontent.com/ThienNguyen3001/gif/main/giphy.webp?token=GHSAT0AAAAAACWLZ2ZCA6SUGLQLQDZASKGMZWFLITA" width="500">
 
 </p>
 
