@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="middle" src="https://raw.githubusercontent.com/ThienNguyen3001/gif/main/Gif.gif?token=GHSAT0AAAAAACV62X6SFU23KRV5W672K4XGZWHKE6Q" width="500">
+  <img align="middle" src="https://github.com/user-attachments/assets/d4b99e6c-2f75-41ef-8ed1-fc5612360f18" width="500">
 
 </p>
 
