@@ -79,9 +79,9 @@
 
 <h1 align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=radical)](https://github.com/ThienNguyen3001/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=react)](https://github.com/ThienNguyen3001/github-readme-stats)<br>
 <!--![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 
 
 </h1>
