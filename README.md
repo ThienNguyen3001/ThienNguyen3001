@@ -82,8 +82,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=react)<br>
 <!--![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
-
-
+# 📊 Competitive programing:
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NguyenThien&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/NguyenThien)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 </h1>
 
 <!-- 
