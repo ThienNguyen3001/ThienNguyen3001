@@ -2,6 +2,7 @@
   <img align="middle" src="https://github.com/user-attachments/assets/d4b99e6c-2f75-41ef-8ed1-fc5612360f18" width="500">
 
 </p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=hi)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h1 align="middle">
