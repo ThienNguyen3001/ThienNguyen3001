@@ -84,7 +84,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 # 🤺 Competitive programing:
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NguyenThien&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/NguyenThien)
-![LeetCode Stats](https://leetcard.jacoblin.cool/nnt2923?theme=dark&font=Oxanium)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/nnt2923?theme=dark&font=Oxanium)-->
 </h1>
 
 <!-- 
