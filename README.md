@@ -9,13 +9,13 @@
 </h1>
 <h3 align="middle">An ambitious CS student from UEH.</h3>
 
-# 💫 About Me:
+# ❔ About Me:
 <div align="left">
  🔭 I’m currently learning Computer Science as a 2nd year student at UEH (University of Economic Ho Chi Minh City).<br>
  
  </div>
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤙 Connect with me:</h3>
 
 <div align="left"> 
     <a href="https://www.linkedin.com/in/thi%E1%BB%87n-nguy%E1%BB%85n-1b3793285/" target="_blank">
@@ -98,7 +98,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-# 🤖🚀 My Projects 🔬🛠️:
+# 🤖🚀 My Projects 📈🛠️:
 
 <h1 align="left">
 
