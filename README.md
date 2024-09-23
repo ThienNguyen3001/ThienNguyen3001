@@ -100,7 +100,10 @@
 
 # 🤖🚀 My Projects 📈🛠️:
 
-<h1 align="left">
+
+<a href="https://github.com/ThienNguyen3001/Student-Dropout-Analysis"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Student-Dropout-Analysis&theme=radical" />
+</a> 
 <a href="https://github.com/ThienNguyen3001/Clan-Analysis"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Clan-Analysis&theme=radical" />
 </a>  
