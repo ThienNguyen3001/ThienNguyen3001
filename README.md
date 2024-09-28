@@ -97,7 +97,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> -->
-
+<!--
 # 🤖🚀 My Projects 📈🛠️:
 
 
@@ -118,6 +118,6 @@
 </a>   
 <a href="https://github.com/ThienNguyen3001/Elevator-DSA-Project"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Elevator-DSA-Project&theme=radical" />
-</a> 
+</a> -->
 </h1>
 
