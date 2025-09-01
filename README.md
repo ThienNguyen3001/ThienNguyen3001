@@ -10,7 +10,7 @@
 ---
 
 ## ❔ About Me:
-- 🔭 I’m currently a **2nd-year Computer Science student** at **UEH (University of Economic Ho Chi Minh City)**.  
+- 🔭 I’m currently a *3rd-year Computer Science student** at **UEH (University of Economic Ho Chi Minh City)**.  
 - 📚 Passionate about Machine Learning, Data Science, Data Analysis, and Big Data.  
 
 ---
