@@ -10,8 +10,8 @@
 ---
 
 ## ❔ About Me:
-- 🔭 I’m currently a *3rd-year Computer Science student** at **UEH (University of Economic Ho Chi Minh City)**.  
-- 📚 Passionate about Machine Learning, Data Science, Data Analysis, and Big Data.  
+- 🔭 I’m currently a **3rd-year Computer Science student** at **UEH (University of Economic Ho Chi Minh City)**.  
+- 📚 Passionate about Machine Learning, Data Science and AI-Automation.  
 
 ---
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
 ### **Libraries & Frameworks**
@@ -46,15 +47,16 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  
 </div>
 
 ### **Software & Tools**
 <div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green" alt="PyCharm">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMWare">
+  <img src="https://img.shields.io/badge/n8n-blue?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
 
 ---
