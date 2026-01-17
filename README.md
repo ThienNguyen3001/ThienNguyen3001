@@ -59,14 +59,19 @@
   <img src="https://img.shields.io/badge/n8n-blue?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
 
----
-
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen3001&layout=compact&theme=react" alt="Top Languages">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=ThienNguyen3001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=470" alt="GitHub Streak">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiennguyen3001&theme=calm">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiennguyen3001&theme=calm&utcOffset=7">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiennguyen3001&theme=calm">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiennguyen3001&theme=calm">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiennguyen3001&theme=calm">
+</div>
+
+<div align="center">
+<!-- <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiennguyen3001&theme=calm&hide_border=true"> -->
+<img height="166em" src="https://awesome-github-stats.azurewebsites.net/user-stats/thiennguyen3001?cardType=level&theme=calm&preferLogin=false&Border=1B1B27">
+
 </div>
 
 ---
-
