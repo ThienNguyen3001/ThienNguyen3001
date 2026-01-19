@@ -68,10 +68,4 @@
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiennguyen3001&theme=calm">
 </div>
 
-<div align="center">
-<!-- <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiennguyen3001&theme=calm&hide_border=true"> -->
-<img height="166em" src="https://awesome-github-stats.azurewebsites.net/user-stats/thiennguyen3001?cardType=level&theme=calm&preferLogin=false&Border=1B1B27">
-
-</div>
-
 ---
